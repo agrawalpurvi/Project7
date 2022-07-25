@@ -1,0 +1,43 @@
+body{
+    background-color:rgba(239, 204, 242, 0.915);
+    text-align: center;
+}
+
+
+h1{
+    background-color: rgb(243, 194, 194);
+    padding:2%;
+
+}
+ul{
+    margin-left: 80%;
+    
+    margin-top: -5%;
+   
+}
+li{
+    display:inline;
+
+    margin-right: 6%;
+   
+}
+a{ 
+    text-decoration: none;
+    color:rgb(79, 15, 15);
+    background-color: rgb(255, 255, 255);
+    padding:10px;
+    border:double;
+    
+}
+a:hover{
+    background-color: rgba(239, 85, 147, 0.175);
+    color:rgba(255, 255, 255, 0.918);
+}
+
+h1:hover{
+    background-color: rgba(255, 169, 153, 0.41);
+    color: azure;
+}
+
+
+
